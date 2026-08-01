@@ -1,65 +1,33 @@
-# 👋 Hey, I'm Ryan (RJ)
+# RJ Johnson
 
-## 🚀 Re-imagining Systems That Actually Work
+**Jireh Group LLC** — Portland, Oregon
 
-I help people get unstuck.
+Human capital strategy, operationalized.
 
-Regain your sanity, quality of life, profitability — and actually enjoy running your business again.
+I walk into organizations, find what's broken at the people-and-systems layer, and stay in a strategic chair until it's fixed. Twenty-seven years in sales and operations, most of it on straight commission. Home services, real estate acquisitions, and B2B technology.
 
-I built all of this out of frustration in my own life. **30 years on the battlefield.** In the trenches. Grinding. Dealing with antiquated systems, closed-minded relics of a bygone era, and tools that were never designed for people like us.
-
-I'm not a software engineer. I'm a normal guy with a **shit ton of battle scars** who finally figured out what works.
+What's here is infrastructure I built for my own practice, not a product line.
 
 ---
 
-## 🔥 Why I Do This
+## Working stack
 
-You know what I'm tired of?
-
-- Bloated, expensive CRMs you're paying for and barely using
-- Manual processes eating your time and your margin
-- Useless vendors who don't give a damn about your business
-- Burning your synapsis trying to figure out a system that should just *work*
-
-**One 20–60 min call.** That's it. We map it out, we build it clean, and we hand you the keys.
-
-> Full custom turnkey — soup to nuts. Or we plug into what you already have and just **plug the leaks.**
-> Your call.
+**Orchestration** — LangGraph, multi-agent with MCP tool servers
+**Retrieval** — Qdrant, HNSW indexing, hybrid dense/sparse
+**Models** — Claude API (Sonnet, Opus)
+**Knowledge** — Obsidian vault, structured markdown, ~250 linked files
+**Delivery** — Netlify, static and prerendered
 
 ---
 
-## 🛠️ Current Stack
+## Selected work
 
-**Automation:** N8N · Zapier  
-**AI:** Claude API · GPT-4o · Gemini · Antigravity  
-**Frontend:** HTML · CSS · JS · React  
-**Backend:** Node.js · Google Sheets · Airtable  
-**Hosting:** Vercel · GitHub Pages  
-**Comms:** AI Voice Agents · SMS Automation · Virtual Assistants
+**Field Diagnostic Tool** — HVAC indoor air quality assessment. Takes particle-counter readings, system age, and tonnage; returns a scored condition report. Built from actual in-home diagnostic work.
+
+**Automation infrastructure for home services** — Lead capture and follow-up systems for HVAC and trades operators who lose revenue to dropped balls, not to lack of demand.
 
 ---
 
-## 🏗️ What I'm Building
+## Contact
 
-- **[MySklz.com](https://mysklz.com)** — AI-powered business training with personality-driven coaches (Hormozi, Martell, GaryVee style)
-- **[Jireh Automations](https://jirehautomations.com)** — N8N workflows built for home service & trades businesses
-- **Lead handling systems** that convert cold leads automatically — no extra headcount
-
----
-
-## 🎯 Current Focus
-
-Building NotebookLM-style learning tools for entrepreneurs who want real AI mentorship — **without the $10K/month coaching fees.**
-
----
-
-## 📡 Connect
-
-- 🌐 [MySklz.com](https://mysklz.com)
-- ⚙️ [JirehAutomations.com](https://jirehautomations.com)
-- 🧠 [JirehGroup.ai](https://jirehgroup.ai)
-- 📧 info@jirehautomations.com
-
----
-
-*"Streets paved. Traffic incoming."* 🛣️
+jirehgroup.ai · rj@jirehgroup.ai
