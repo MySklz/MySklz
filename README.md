@@ -12,7 +12,7 @@ What's here is infrastructure I built for my own practice, not a product line.
 
 ## Working stack
 
-**Orchestration** — LangGraph, multi-agent with MCP tool servers
+**Orchestration** — 58 agent definitions dispatched through MCP tool servers
 **Retrieval** — Qdrant, HNSW indexing, hybrid dense/sparse
 **Models** — Claude API (Sonnet, Opus)
 **Knowledge** — Obsidian vault, structured markdown, ~250 linked files
